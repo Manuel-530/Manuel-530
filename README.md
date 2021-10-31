@@ -6,5 +6,7 @@
 ## Things i've been working on in the past:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daim0&repo=CTPBot&theme=react&bg_color=2a2f38&hide_border=true&show_owner=true)](https://github.com/daim0/CTPBot)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeVasquez350&repo=C.I.R.N.O&theme=react&bg_color=2a2f38&hide_border=true&show_owner=true)](https://github.com/FelipeVasquez350/C.I.R.N.O)
+
 ## Some dumb projects [WIP or Not]:
 0d1117

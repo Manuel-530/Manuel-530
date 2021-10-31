@@ -3,7 +3,7 @@
   <h3  align="center">I'm a full-stack developer who's will to code is inversely proportional to the time i have for it</h3>
 </p>
 
-# Languages i've been messing around with:
+### Languages i've been messing around with:
 
 <p align="left">
   <a href="#">
@@ -35,7 +35,7 @@
   </a>  
 </p>
 
-# Frameworks: 
+### Frameworks: 
 <p align="left">
   <a href="#">
     <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg style="vertical-align:top; margin:6px 4px">
@@ -47,7 +47,7 @@
 </p>
   
 
-# IDEs / Text Editors:
+### IDEs / Text Editors:
 <p align="left">
   <a href="#">
     <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio.svg style="vertical-align:top; margin:6px 4px">

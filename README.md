@@ -3,7 +3,7 @@
   <h3  align="center">I'm a full-stack developer who's will to code is inversely proportional to the time i have for it</h3>
 </p>
 
-[![FelipeVasquez350's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeVasquez350&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![FelipeVasquez350's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeVasquez350&theme=react&title_color=36BCF7&bg_color=2a2f38&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Things i've been working on in the past:
 

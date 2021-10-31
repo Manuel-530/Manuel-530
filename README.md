@@ -5,14 +5,35 @@
 
 # Languages i've been messing around with:
 
-<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp_dotnet.svg>
-<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg>
-<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg>
-<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg>
-<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg>
-<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/php.svg>
-<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg>
-
+<p align="left">
+  <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp_dotnet.svg" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/php.svg style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg style="vertical-align:top; margin:6px 4px">
+  </a>  
+</p>
 
 # Frameworks: 
 

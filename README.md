@@ -11,35 +11,41 @@
   </a>  
   
   <a href="#">
-<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg style="vertical-align:top; margin:6px 4px">
+    <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg style="vertical-align:top; margin:6px 4px">
   </a>  
   
   <a href="#">
-<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg style="vertical-align:top; margin:6px 4px">
+    <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg style="vertical-align:top; margin:6px 4px">
   </a>  
   
   <a href="#">
-<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg style="vertical-align:top; margin:6px 4px">
+    <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg style="vertical-align:top; margin:6px 4px">
   </a>  
   
   <a href="#">
-<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg style="vertical-align:top; margin:6px 4px">
+    <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg style="vertical-align:top; margin:6px 4px">
   </a>  
   
   <a href="#">
-<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/php.svg style="vertical-align:top; margin:6px 4px">
+    <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/php.svg style="vertical-align:top; margin:6px 4px">
   </a>  
   
   <a href="#">
-<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg style="vertical-align:top; margin:6px 4px">
+    <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg style="vertical-align:top; margin:6px 4px">
   </a>  
 </p>
 
 # Frameworks: 
-
-<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg>
-<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg>
-
+<p align="left">
+  <a href="#">
+    <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg style="margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+    <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg style="margin:6px 4px">
+  </a>  
+</p>
+  
 
 # IDEs / Text Editors:
 

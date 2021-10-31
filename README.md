@@ -4,6 +4,6 @@
 </p>
 
 ## Things i've been working on in the past:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeVasquez350&repo=CTPBot)](https://github.com/FelipeVasquez350/CTPBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeVasquez350&repo=CTPBot&show_owner=true)](https://github.com/FelipeVasquez350/CTPBot)
 
 ## Some dumb projects [WIP or Not]:

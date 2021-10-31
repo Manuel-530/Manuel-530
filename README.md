@@ -38,19 +38,25 @@
 # Frameworks: 
 <p align="left">
   <a href="#">
-    <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg style="margin:6px 4px">
+    <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg style="vertical-align:top; margin:6px 4px">
   </a>  
   
   <a href="#">
-    <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg style="margin:6px 4px">
+    <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg style="vertical-align:top; margin:6px 4px">
   </a>  
 </p>
   
 
 # IDEs / Text Editors:
-
-<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio.svg>
-<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg>
+<p align="left">
+  <a href="#">
+    <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio.svg style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+    <img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg style="vertical-align:top; margin:6px 4px">
+  </a>  
+</p>
 
 
 ## Things i've been working on in the past:

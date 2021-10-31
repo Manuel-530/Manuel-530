@@ -3,3 +3,7 @@
   <h3  align="center">I'm a full-stack developer who's will to code is inversely proportional to the time i have for it</h3>
 </p>
 
+## Things i've been working on in the past:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeVasquez350&repo=CTPBot)](https://github.com/FelipeVasquez350/CTPBot)
+
+## Some dumb projects [WIP or Not]:

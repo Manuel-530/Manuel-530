@@ -3,6 +3,8 @@
   <h3  align="center">I'm a full-stack developer who's will to code is inversely proportional to the time i have for it</h3>
 </p>
 
+![](https://raw.githubusercontent.com/FelipeVasquez350/github-stats-transparent/output/generated/overview.svg)
+
 ## Things i've been working on in the past:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daim0&repo=CTPBot&theme=react&title_color=36BCF7&bg_color=2a2f38&hide_border=true&show_owner=true)](https://github.com/daim0/CTPBot)

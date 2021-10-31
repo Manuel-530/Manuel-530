@@ -3,6 +3,28 @@
   <h3  align="center">I'm a full-stack developer who's will to code is inversely proportional to the time i have for it</h3>
 </p>
 
+# Languages i've been messing around with:
+
+<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp_dotnet.svg>
+<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg>
+<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg>
+<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg>
+<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg>
+<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/php.svg>
+<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg>
+
+
+# Frameworks: 
+
+<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg>
+<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg>
+
+
+# IDEs / Text Editors:
+
+<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio.svg>
+<img src=https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg>
+
 
 ## Things i've been working on in the past:
 
